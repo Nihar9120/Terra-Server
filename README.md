@@ -33,6 +33,6 @@ $ aws --verion
 
 --> Install on Windows OS 
 
-msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+$ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 --> After this command run, showing on some process and check Version.
